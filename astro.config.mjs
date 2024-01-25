@@ -1,8 +1,8 @@
 import { defineConfig } from 'astro/config';
 import tailwind from "@astrojs/tailwind";
 
-//https://docs.astro.build/en/guides/deploy/github/
-// 1.여기 깃헙 업로드위해서 수정 site 라인 있는줄 2.Configure a GitHub Action보고 파일 생성
+//https://www.youtube.com/watch?v=XoIHKO6AkoM 원본영상에서 vercel adapter 부분보고 모두해결
+// astro nelify는 해결 못 했는데 이주소로 가면 될듯 https://docs.astro.build/en/guides/deploy/netlify/
 import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
