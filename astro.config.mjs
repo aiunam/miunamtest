@@ -9,5 +9,4 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   output: 'server',
-  site: 'https://aiunam.github.io',
 });
