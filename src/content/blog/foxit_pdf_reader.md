@@ -2,7 +2,7 @@
 title: 'Foxit PDF reader'
 pubDate: 2024-02-12
 author: 'Miunam'
-image: 'image5.png'
+image: 'foxit001.png'
 tags: ['programas', 'pdf', 'free']
 slug: Foxit PDF reader
 ---
