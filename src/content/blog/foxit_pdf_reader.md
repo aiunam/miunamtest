@@ -3,9 +3,11 @@ title: 'Foxit PDF reader'
 pubDate: 2024-02-12
 author: 'Miunam'
 image: 'image5.png'
-tags: ['programas', 'pdf']
-slug: slug Foxit PDF reader
+tags: ['programas', 'pdf', 'free']
+slug: Foxit PDF reader
 ---
+
+[Descargar](https://www.foxit.com/es-la/downloads/#Foxit-Reader/)
 
 Drones have transcended their origins as remote-controlled toys and evolved into a powerful technology with diverse applications. In 2024, the world of drones is taking flight in more ways than one. Let's explore the soaring advancements and opportunities in the realm of drones.
 
