@@ -4,6 +4,7 @@ pubDate: 2024-02-12
 author: 'Miunam'
 image: 'image5.png'
 tags: ['programas', 'pdf', 'free']
+url: https://www.foxit.com/es-la/downloads/#Foxit-Reader/
 slug: Foxit PDF reader
 ---
 
