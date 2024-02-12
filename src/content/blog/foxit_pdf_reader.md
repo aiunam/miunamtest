@@ -7,7 +7,7 @@ tags: ['programas', 'pdf', 'free']
 slug: Foxit PDF reader
 ---
 
-<center>## **[Descargar Foxit PDF reader](https://www.foxit.com/es-la/downloads/#Foxit-Reader/)**</center>
+<center>[Descargar Foxit PDF reader](https://www.foxit.com/es-la/downloads/#Foxit-Reader/)</center>
 
 Lector de PDF pequeño, rápido y con muchas funciones para ver, anotar, rellenar formularios y firmar documentos PDF. El lector de PDF se integra con los ECM y los servicios de almacenamiento en la nube populares.
 
